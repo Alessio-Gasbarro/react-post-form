@@ -3,7 +3,9 @@ import React from 'react'
 const Header = () => {
     return (
         <>
-            <h1>Header</h1>
+            <header>
+                <h1>React Post Form</h1>
+            </header>
         </>
     )
 }
